@@ -5,6 +5,7 @@
  */
 
 #include <dt-bindings/zmk/mouse.h>
+#include "mouse.dtsi"
 #include "../zmk-nodefree-config/helper.h"
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
